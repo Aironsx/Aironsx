@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me : 
 
- I study Backend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm from Russia.
+ I'm backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm from Russia.
  
  ---
 
